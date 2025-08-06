@@ -17,12 +17,12 @@ Built with **HTML**, **Tailwind CSS**, and **JavaScript**, this tool offers a sl
 ##  Live Demo
 
 > *(Add your deployment link here if hosted, e.g., GitHub Pages or Vercel)*  
-> Example: [Live Demo →](https://your-username.github.io/text-summarizer)
+> [Check Out here ->](https://anil24official.github.io/Text-Summarizer/)
 
 ---
 
-Tech Stack
-Frontend: HTML, Tailwind CSS, JavaScript
-API: Gemini 2.0 Flash
-Styling Framework: Tailwind CSS CDN
+## Tech Stack
+- Frontend: HTML, Tailwind CSS, JavaScript
+- API: Gemini 2.0 Flash
+- Styling Framework: Tailwind CSS CDN
 
