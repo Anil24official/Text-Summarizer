@@ -16,7 +16,7 @@ Built with **HTML**, **Tailwind CSS**, and **JavaScript**, this tool offers a sl
 
 ##  Live Demo
 
-> *(Add your deployment link here if hosted, e.g., GitHub Pages or Vercel)*  
+> *Text Summarizer*  
 > [Check Out here ->](https://anil24official.github.io/Text-Summarizer/)
 
 ---
